@@ -88,6 +88,7 @@ install_app "postman"
 install_app "dbeaver-community"
 install_app "jetbrains-toolbox"
 install_app "lm-studio"
+install_app "orbstack"
 
 # Non-cask packages
 install_brew_package "ollama"
