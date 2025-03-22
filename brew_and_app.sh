@@ -83,6 +83,7 @@ install_app "raycast"
 install_app "cleanshot"
 
 ## Dev
+install_brew_package "php"
 install_app "sublime-text"
 install_app "postman"
 install_app "dbeaver-community"
